@@ -40,6 +40,9 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+📫 Мой репозитарий
+*  [Часть кода управления различными устройствами  Блока подогрева газа ](https://github.com/SergeyL1L/BPG)
+
 ⚡  Быть добру!
 <!--
 **SergeyL1L/SergeyL1L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
