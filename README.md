@@ -19,7 +19,7 @@
 
 
 🤝 Мои дипломы
-
+https://pu.vk.com/c842429/ss2081/upload.php?act=proxy_img&url=https%3A%2F%2Fu.netology.ru%2Fbackend%2Fuploads%2Flegacy%2Fshared_diplomas%2Fimage%2F97397%2F41fe5da32851e91bb3ed1547ec982f1d.png&hash=ce68f79f2ba34a2dfd4cf3db4c433e64&mid=499541696
 ### Skills
 
 <p align="left">
