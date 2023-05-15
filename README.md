@@ -16,33 +16,20 @@
 *   [Создавать инструкции по эксплуатации](http://github.com/SergeyL1L)
 
 🧠   Мои сертификаты
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Основы коммутации и маршрутизации](http://github.com/SergeyL1L)
-*   [Основы автоматизированных систем](http://github.com/SergeyL1L)
-*   [SCADA-системы]([http://github.com/SergeyL1L](https://drive.google.com/file/d/1X6Cjx95JOTaXmpAIX85aA178qApQL89E/view?usp=sharing))
-*   [Администрирование систем](http://github.com/SergeyL1L)
-*   [Аппаратное обеспечение (Hardware)](http://github.com/SergeyL1L)
-*   [Программирование ПЛК](http://github.com/SergeyL1L)
-*   [Взаимодействие со смежными системами](http://github.com/SergeyL1L)
-*   [Документация и типовые решения для АСУ ТП](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   [Введение в сетевые технологии](http://github.com/SergeyL1L)
-*   
-
+*   [Введение в сетевые технологии](https://drive.google.com/file/d/1mNREj8CkBI57CL8Ahu7vwWhfNkQ7w7pD/view?usp=sharing)
+*   [Основы коммутации и маршрутизации](https://drive.google.com/file/d/1oA61nWZqi82DxuIcFqWT0H0HHQmGNxPC/view?usp=sharing)
+*   [Основы автоматизированных систем](https://drive.google.com/file/d/1H5jsySzfrWAX68SCE48zFd7pISki57eU/view?usp=sharing)
+*   [SCADA-системы](https://drive.google.com/file/d/1X6Cjx95JOTaXmpAIX85aA178qApQL89E/view?usp=share_link)
+*   [Администрирование систем](https://drive.google.com/file/d/1vL_y4YPJvbewCpfN1S8gC4-I4lwNyrrF/view?usp=sharing)
+*   [Аппаратное обеспечение (Hardware)](https://drive.google.com/file/d/1Kr5To9JD4t94G8zwsEIFP5mwJ7ZZsdwo/view?usp=sharing)
+*   [Программирование ПЛК](https://drive.google.com/file/d/15Q-NXlJwgUA9_2t9I05Fm1Ma1Wrm_tPW/view?usp=sharing)
+*   [Взаимодействие со смежными системами](https://drive.google.com/file/d/1q2-gBrGT3zRH6mWSSeJWFIrRqfq8Xs-F/view?usp=sharing)
+*   [Документация и типовые решения для АСУ ТП](https://drive.google.com/file/d/1YaqnT6pOSO-tGUz4BDveFgZXfA1bz5cp/view?usp=sharing)
 
 
 🤝 Мои дипломы
-
+*   [Свидетельство об обудении в Нетологии](https://drive.google.com/file/d/1y5Slgp4SDjbLlHpHdUhWle35LI-Mghhe/view?usp=sharing)
+*   [Диплом Нетологии](https://drive.google.com/file/d/1y5Slgp4SDjbLlHpHdUhWle35LI-Mghhe/view?usp=sharing)
 ### Skills
 
 <p align="left">
