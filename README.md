@@ -15,7 +15,7 @@
 *   [Создавать принципиальные схемы проекта](http://github.com/SergeyL1L)
 *   [Создавать сборочный чертеж, в том числе в 3D](http://github.com/SergeyL1L)
 *   [Создавать кабельный журнал](http://github.com/SergeyL1L)
-*   [Писать код на языках ST,FBD,LD под заданный проект](http://github.com/SergeyL1L)
+*   [Код на языках ST,FBD,LD под заданный проект](http://github.com/SergeyL1L)
 *   [Создавать инструкции по эксплуатации](http://github.com/SergeyL1L)
 *   [Проводить пуско-наладочные работы](http://github.com/SergeyL1L)
 
