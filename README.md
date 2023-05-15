@@ -12,6 +12,7 @@
 *   [Понимать тех. задание любой сложности](http://github.com/SergeyL1L)
 *   [Создавать функциональные схемы](http://github.com/SergeyL1L)
 *   [Подбирать оборудование для проекта](http://github.com/SergeyL1L)
+*   [Создавать схему электропитания](http://github.com/SergeyL1L)
 *   [Создавать принципиальные схемы проекта](http://github.com/SergeyL1L)
 *   [Создавать сборочный чертеж, в том числе в 3D](http://github.com/SergeyL1L)
 *   [Создавать кабельный журнал](http://github.com/SergeyL1L)
