@@ -51,7 +51,10 @@
 📫 Мой репозитарий
 *  [Часть кода управления различными устройствами  Блока подогрева газа ](https://github.com/SergeyL1L/BPG)
 
+
 ⚡  Быть добру!
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SergeyL1L)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **SergeyL1L/SergeyL1L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
