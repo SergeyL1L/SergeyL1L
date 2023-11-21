@@ -36,7 +36,8 @@
 🤝 Мои дипломы
 *   [Свидетельство об обучении в Нетологии](https://drive.google.com/file/d/1y5Slgp4SDjbLlHpHdUhWle35LI-Mghhe/view?usp=sharing)
 *   [Диплом Нетологии](https://drive.google.com/file/d/1qvJKvS-tDPiIXUygMa54Vg2B8f1YRd_4/view?usp=sharing)
-*   [Сертификат о прохождении курса КИПиА, Прикладной курс АСУ ТП, Программирование ПЛК на языках FBD,ST,LD ОТ ООО Громов ПЛК ](https://drive.google.com/file/d/1bclNVy261MJdnJPbyduJvOFQgEGpjCkQ/view?usp=sharing)
+*   [Сертификат о прохождении курса КИПиА, Прикладной курс АСУ ТП, Программирование ПЛК на языках FBD,ST,LD от ООО Громов ПЛК ](https://drive.google.com/file/d/1bclNVy261MJdnJPbyduJvOFQgEGpjCkQ/view?usp=sharing)
+*    [Сертификат о прохождении курса Диспетчеризация АСУ ТП на языке С++  в среде QT Creator от ООО Громов ПЛК ](https://drive.google.com/file/d/1TXdzSVplytiDJ6B0xG2N5dJUmHJ98wGf/view?usp=sharing)
 ### Skills
 
 <p align="left">
